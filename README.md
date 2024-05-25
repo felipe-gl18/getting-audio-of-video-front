@@ -1,6 +1,10 @@
 # Getting audio of video 
 This Front-End project send a mp4 file to the Back-End application, responsable for getting an audio of it, and return it to the Front-End, as an mp3, or aac file .
 
+![Captura de tela 2024-05-24 224010](https://github.com/felipe-gl18/getting-audio-of-video-front/assets/68077242/21664e84-a009-4618-a1c3-0b0dab92bb6d)
+
+https://github.com/felipe-gl18/getting-audio-of-video-front/assets/68077242/43593bce-a89c-45ba-8d34-2603eba4a9be
+
 ## [Back-End application](https://github.com/felipe-gl18/getting-audio-of-video-back)
 Make sure the Front-End project is requesting the port:3002, because that's where the Back-End application is running.
 
