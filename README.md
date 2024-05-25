@@ -1,6 +1,9 @@
 # Getting audio of video 
 This Front-End project send a mp4 file to the Back-End application, responsable for getting an audio of it, and return it to the Front-End, as an mp3, or aac file .
 
+## [Back-End application](https://github.com/felipe-gl18/getting-audio-of-video-back)
+Make sure the Front-End project is requesting the port:3002, because that's where the Back-End application is running.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
